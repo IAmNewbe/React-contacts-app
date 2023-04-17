@@ -5,4 +5,4 @@ import './styles/style.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
-root.render(<ContactApp />);
+ root.render(<ContactApp />);
